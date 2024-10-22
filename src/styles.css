@@ -1,0 +1,72 @@
+body {
+    background: #f9f7fe;
+    margin: 0;
+    font-family: "Arima", system-ui;
+}
+
+h1 {
+    font-family: "Playwrite GB S",
+        cursive;
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.5;
+}
+
+.container {
+    margin: 120px auto;
+    max-width: 600px;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+form {
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    display: flex;
+    box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+    margin-bottom: 40px;
+}
+
+.prompt-input {
+    width: 80%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: "Arima", system-ui;
+    margin-right: 10px;
+}
+
+.prompt-btn {
+    width: 20%;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Arima", system-ui;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+main {
+    margin-bottom: 30px;
+}
+
+.affirmation {
+    font-size: 16px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-left: 3px solid #000000;
+    box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+a {
+    color: #000000;
+}
+
+
